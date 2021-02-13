@@ -1,0 +1,9 @@
+License type: BUSINESS
+Product: Construct 2
+Licensed to: gameq.ir
+Email: Support@GameQ.ir
+Comment: 
+Timestamp: 1597265817
+Hash: 5F4B677816ECC27BE80EBAAB713F5247068E75D5CA6650CE6
+
+This is PRIVATE license. Please TURN OFF "UPDATE CHECKING" in C2 preferences BEFORE USE!!!
