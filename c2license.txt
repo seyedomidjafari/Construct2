@@ -1,4 +1,4 @@
-License type: BUSINESS
+﻿License type: BUSINESS
 Product: Construct 2
 Licensed to: gameq.ir
 Email: Support@GameQ.ir
